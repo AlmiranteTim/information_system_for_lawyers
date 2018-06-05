@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Timur" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Timur.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="AK_1._0.Properties.Settings" SettingsPropertyName="TimurConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Адвокаты" Member="Адвокаты">
+    <Type Name="Адвокаты">
+      <Column Name="Код_адвоката" Type="System.Decimal" DbType="Decimal(7,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Имя" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="Фамилия" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="Отчество" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="Телефон" Type="System.Decimal" DbType="Decimal(10,0)" CanBeNull="true" />
+      <Association Name="Адвокаты_Дело" Member="Дело" ThisKey="Код_адвоката" OtherKey="Код_адвоката" Type="Дело" />
+      <Association Name="Адвокаты_Учетные_записи" Member="Учетные_записи" ThisKey="Код_адвоката" OtherKey="Код_адвоката" Type="Учетные_записи" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Дело" Member="Дело">
+    <Type Name="Дело">
+      <Column Name="Код_дела" Type="System.Decimal" DbType="Decimal(7,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Дата_начала" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Дата_завершения" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Код_клиента" Type="System.Decimal" DbType="Decimal(7,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Код_адвоката" Type="System.Decimal" DbType="Decimal(7,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Статья" Type="System.Decimal" DbType="Decimal(15,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Гонорар" Type="System.Decimal" DbType="Decimal(6,0)" CanBeNull="true" />
+      <Column Name="Статус_дела" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Association Name="Адвокаты_Дело" Member="Адвокаты" ThisKey="Код_адвоката" OtherKey="Код_адвоката" Type="Адвокаты" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Клиенты_Дело" Member="Клиенты" ThisKey="Код_клиента" OtherKey="Код_клиента" Type="Клиенты" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Клиенты" Member="Клиенты">
+    <Type Name="Клиенты">
+      <Column Name="Код_клиента" Type="System.Decimal" DbType="Decimal(7,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Фамилия" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="Имя" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="Отчество" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="Телефон" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="Серия_паспорта" Type="System.Decimal" DbType="Decimal(4,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Номер_паспорта" Type="System.Decimal" DbType="Decimal(6,0) NOT NULL" CanBeNull="false" />
+      <Association Name="Клиенты_Дело" Member="Дело" ThisKey="Код_клиента" OtherKey="Код_клиента" Type="Дело" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Учетные_записи" Member="Учетные_записи">
+    <Type Name="Учетные_записи">
+      <Column Name="Код_записи" Type="System.Decimal" DbType="Decimal(7,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Логин" Type="System.String" DbType="VarChar(8) NOT NULL" CanBeNull="false" />
+      <Column Name="Пароль" Type="System.String" DbType="VarChar(8) NOT NULL" CanBeNull="false" />
+      <Column Name="Код_адвоката" Type="System.Decimal" DbType="Decimal(7,0)" CanBeNull="true" />
+      <Association Name="Адвокаты_Учетные_записи" Member="Адвокаты" ThisKey="Код_адвоката" OtherKey="Код_адвоката" Type="Адвокаты" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+</Database>

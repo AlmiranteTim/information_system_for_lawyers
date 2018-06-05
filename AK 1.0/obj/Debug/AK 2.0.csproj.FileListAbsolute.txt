@@ -1,0 +1,85 @@
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\bin\Debug\Timur.mdf
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\bin\Debug\Timur_log.ldf
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\bin\Debug\AK 1.0.exe.config
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\bin\Debug\AK 1.0.exe
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\bin\Debug\AK 1.0.pdb
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\obj\Debug\AK 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\obj\Debug\AK_1._0.СпискиЛогиновПаролей.resources
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\obj\Debug\AK_1._0.Вход.resources
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\obj\Debug\AK_1._0.Properties.Resources.resources
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\obj\Debug\AK_1._0.Главное_меню.resources
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\obj\Debug\AK_1._0.ИнтерфейсАдвокатов.resources
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\obj\Debug\AK_1._0.СпискиАдвокатов.resources
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\obj\Debug\AK_1._0.СпискиДел.resources
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\obj\Debug\AK_1._0.СпискиКлиентов.resources
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\obj\Debug\AK 2.0.csproj.GenerateResource.Cache
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\obj\Debug\AK 1.0.exe
+C:\Users\Тим\Documents\Visual Studio 2015\Projects\AK 1.0\AK 1.0\obj\Debug\AK 1.0.pdb
+F:\Курсач\AK 1.0\AK 1.0\bin\Debug\AK 1.0.exe.config
+F:\Курсач\AK 1.0\AK 1.0\obj\Debug\AK 1.0.exe
+F:\Курсач\AK 1.0\AK 1.0\obj\Debug\AK 1.0.pdb
+F:\Курсач\AK 1.0\AK 1.0\bin\Debug\Timur.mdf
+F:\Курсач\AK 1.0\AK 1.0\bin\Debug\Timur_log.ldf
+F:\Курсач\AK 1.0\AK 1.0\obj\Debug\AK 2.0.csprojResolveAssemblyReference.cache
+F:\Курсач\AK 1.0\AK 1.0\obj\Debug\AK_1._0.СпискиЛогиновПаролей.resources
+F:\Курсач\AK 1.0\AK 1.0\obj\Debug\AK_1._0.Вход.resources
+F:\Курсач\AK 1.0\AK 1.0\obj\Debug\AK_1._0.Properties.Resources.resources
+F:\Курсач\AK 1.0\AK 1.0\obj\Debug\AK_1._0.Главное_меню.resources
+F:\Курсач\AK 1.0\AK 1.0\obj\Debug\AK_1._0.ИнтерфейсАдвокатов.resources
+F:\Курсач\AK 1.0\AK 1.0\obj\Debug\AK_1._0.СпискиАдвокатов.resources
+F:\Курсач\AK 1.0\AK 1.0\obj\Debug\AK_1._0.СпискиДел.resources
+F:\Курсач\AK 1.0\AK 1.0\obj\Debug\AK_1._0.СпискиКлиентов.resources
+F:\Курсач\AK 1.0\AK 1.0\obj\Debug\AK 2.0.csproj.GenerateResource.Cache
+F:\Курсач\AK 1.0\AK 1.0\bin\Debug\AK 1.0.exe
+F:\Курсач\AK 1.0\AK 1.0\bin\Debug\AK 1.0.pdb
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\bin\Debug\AK 1.0.exe.config
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\obj\Debug\AK 1.0.exe
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\obj\Debug\AK 1.0.pdb
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\bin\Debug\Timur.mdf
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\bin\Debug\Timur_log.ldf
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\bin\Debug\AK 1.0.exe
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\bin\Debug\AK 1.0.pdb
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\obj\Debug\AK 2.0.csprojResolveAssemblyReference.cache
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\obj\Debug\AK_1._0.СпискиЛогиновПаролей.resources
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\obj\Debug\AK_1._0.Вход.resources
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\obj\Debug\AK_1._0.Properties.Resources.resources
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\obj\Debug\AK_1._0.Главное_меню.resources
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\obj\Debug\AK_1._0.ИнтерфейсАдвокатов.resources
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\obj\Debug\AK_1._0.СпискиАдвокатов.resources
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\obj\Debug\AK_1._0.СпискиДел.resources
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\obj\Debug\AK_1._0.СпискиКлиентов.resources
+C:\Users\S9\Desktop\AK 2.0\AK 1.0\obj\Debug\AK 2.0.csproj.GenerateResource.Cache
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\bin\Debug\AK 1.0.exe.config
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\obj\Debug\AK 1.0.exe
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\obj\Debug\AK 1.0.pdb
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\bin\Debug\Timur.mdf
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\bin\Debug\Timur_log.ldf
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\bin\Debug\AK 1.0.exe
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\bin\Debug\AK 1.0.pdb
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\obj\Debug\AK_1._0.СпискиЛогиновПаролей.resources
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\obj\Debug\AK_1._0.Вход.resources
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\obj\Debug\AK_1._0.Properties.Resources.resources
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\obj\Debug\AK_1._0.Главное_меню.resources
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\obj\Debug\AK_1._0.ИнтерфейсАдвокатов.resources
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\obj\Debug\AK_1._0.СпискиАдвокатов.resources
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\obj\Debug\AK_1._0.СпискиДел.resources
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\obj\Debug\AK_1._0.СпискиКлиентов.resources
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\obj\Debug\AK 2.0.csproj.GenerateResource.Cache
+C:\Users\Тим\Desktop\AK 2.5\AK 1.0\obj\Debug\AK 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\bin\Debug\Timur.mdf
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\bin\Debug\Timur_log.ldf
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\bin\Debug\AK 1.0.exe.config
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\bin\Debug\AK 1.0.exe
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\bin\Debug\AK 1.0.pdb
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\obj\Debug\AK 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\obj\Debug\AK_1._0.СпискиЛогиновПаролей.resources
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\obj\Debug\AK_1._0.Вход.resources
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\obj\Debug\AK_1._0.Properties.Resources.resources
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\obj\Debug\AK_1._0.Главное_меню.resources
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\obj\Debug\AK_1._0.ИнтерфейсАдвокатов.resources
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\obj\Debug\AK_1._0.СпискиАдвокатов.resources
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\obj\Debug\AK_1._0.СпискиДел.resources
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\obj\Debug\AK_1._0.СпискиКлиентов.resources
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\obj\Debug\AK 2.0.csproj.GenerateResource.Cache
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\obj\Debug\AK 1.0.exe
+C:\Users\Tim\Desktop\AK 3.0\AK 1.0\obj\Debug\AK 1.0.pdb
